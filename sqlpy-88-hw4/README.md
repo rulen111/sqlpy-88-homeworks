@@ -1,2 +1,3 @@
-# About
-SQLPY-88 Homework #4. Working with PostgreSQL in Python.
+# Работа с PostgreSQL из Python
+
+- [Домашнее задание к лекции «Работа с PostgreSQL из Python»](https://github.com/netology-code/py-homeworks-db/tree/SQLPY-76/05-psycopg)
